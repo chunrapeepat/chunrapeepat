@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello 🌎!
+
+Hi, I'm Chun! I'm a full-stack developer who is writing at [The CHUN](fb.com/chunza2542), organizer at [Stupid Hackathon](https://www.facebook.com/StupidHackTH/), [Web For Fun](http://webforfun.dev/), [Young Creator's Camp](https://ycc.in.th/), [Young Webmaster Camp](https://ywc.in.th/), and [Junior Webmaster Camp](http://jwc.in.th/), I'm currently working on [LearnAlgorithm.com](https://learnalgorithm.com) as an instructor and developer, and also loved to create silly things such as [Care Reaction Customizer](https://care-reaction-customizer.thechun.dev/). Learn more about me at [thechun.dev](https://thechun.dev)
+
+Interests: 💻 🚀 🎸 🎤 🏃‍♂️ 🍔 📺 🏖
+
+<hr>
+
+👇 You can check out my works below 👇
 
 <!--
 **chunza2542/chunza2542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 
