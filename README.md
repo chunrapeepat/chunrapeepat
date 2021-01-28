@@ -1,6 +1,6 @@
 # Hello 🌎!
 
-Hi, I'm [Chun](https://thechun.dev)! I'm a full-stack developer, product builder and guitar player, I'm also writing articles at [The CHUN](fb.com/chunza2542) and my personal website [thechun.dev](https://thechun.dev), organizing events at [Stupid Hackathon](https://www.facebook.com/StupidHackTH/), [Web For Fun](http://webforfun.dev/), [Young Creator's Camp](https://ycc.in.th/), [Young Webmaster Camp](https://ywc.in.th/), and [Junior Webmaster Camp](http://jwc.in.th/) and loved to create silly things such as [Care Reaction Customizer](https://care-reaction-customizer.thechun.dev/) or [CSS UI-kit inspired by Window 95](https://github.com/chunza2542/acacia). 
+Hi, I'm [Chun](https://thechun.dev)! I'm a full-stack developer, product builder and guitar player. I'm writing articles at [The CHUN](fb.com/chunza2542) and my personal website [thechun.dev](https://thechun.dev), organizing events at [Stupid Hackathon](https://www.facebook.com/StupidHackTH/), [Web For Fun](http://webforfun.dev/), [Young Creator's Camp](https://ycc.in.th/), [Young Webmaster Camp](https://ywc.in.th/), and [Junior Webmaster Camp](http://jwc.in.th/) and loved to create silly things such as [Care Reaction Customizer](https://care-reaction-customizer.thechun.dev/) or [CSS UI-kit inspired by Window 95](https://github.com/chunza2542/acacia). 
 
 Interests: 💻 📝 🚀 🎸 🎤 🏃‍♂️ 🍔 📺 🏖
 
