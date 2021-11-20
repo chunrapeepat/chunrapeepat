@@ -1,24 +1,11 @@
-# Hello 🌎!
-
-Hi, I'm [Chun](https://thechun.dev)! I'm a full-stack developer, product builder and guitar player. I'm writing articles at [The CHUN](fb.com/chunza2542) and my personal website [thechun.dev](https://thechun.dev), organizing events at [Stupid Hackathon](https://www.facebook.com/StupidHackTH/), [Web For Fun](http://webforfun.dev/), [Young Creator's Camp](https://ycc.in.th/), [Young Webmaster Camp](https://ywc.in.th/), and [Junior Webmaster Camp](http://jwc.in.th/) and loved to create silly things such as [Care Reaction Customizer](https://care-reaction-customizer.thechun.dev/) or [CSS UI-kit inspired by Window 95](https://github.com/chunza2542/acacia). 
-
-Interests: 💻 📝 🚀 🎸 🎤 🏃‍♂️ 🍔 📺 🏖
+Hello! I'm Chun, a full-stack software developer from Bangkok, Thailand 🇹🇭. I enjoy seeking new ideas and building cool things 🤖. Currently experimenting on web3 🧪...
 
 <hr>
 
-👇 You can check out my works below 👇
+- 🐧 https://twitter.com/chunza2542
+- 👩‍🚀 https://www.linkedin.com/in/chunza2542
+- 💌 hello@thechun.dev
 
-<!--
-**chunza2542/chunza2542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Make the world suck less"
