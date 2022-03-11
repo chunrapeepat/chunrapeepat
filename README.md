@@ -19,7 +19,7 @@
 </a>
 
 Hello! I'm Chun, 22 y/o hacker and entrepreneur who enjoys building fun stuff on the internet.
-- I quit my Web2 job to become full-time Web3 contributor (and build stuff I enjoy with).
+- I quit my Web2 job to become full-time Web3 contributor (and to build stuff I enjoy with).
 - I previously worked at [ThoughtWorks](https://www.thoughtworks.com/) and [Cleverse](https://cleverse.com/) as a software engineer.
 - I currently learning Rust, Three.js, and other cool stuff!
 - I'm mastering Web3 by building little projects e.g. [Uniswap Calculator](https://uniswapv3.thechun.dev/), [ETHTalk](https://ethtalk.app/)
