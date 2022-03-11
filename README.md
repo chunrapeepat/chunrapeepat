@@ -19,16 +19,8 @@
 </a>
 
 Hello! I'm Chun, 22 y/o hacker who enjoys building cool things on the internet.
-- asdasd
-asdasdasdasdasd
-asd
-asd
-asd
-asd
-asd
-as
 
 
 <hr>
 
-"Make the world suck less"
+<img src="./assets/footer-marquee.gif" height="30">
