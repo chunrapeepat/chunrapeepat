@@ -31,16 +31,16 @@ Hello! I'm Chun, 22 y/o hacker and entrepreneur who enjoys building fun stuff on
 <br>
 <img src="./assets/topic-areasofintesrest.png" height="32">
 
-- **Software engineering.**
+- **Software engineering.** 
+- **Product development.** 
 - **Entrepreneurship.**
-- **Education.**
+- **Education.** 
 - **Web3.**
 
 <br>
 <img src="./assets/topic-myprojects.png" height="40">
 
-<br>
-<br>
-<br>
+- Coming soon. Now, you can check my pinned repositories below. 
+
 <br>
 <img src="./assets/footer-marquee.gif" height="30">
