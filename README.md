@@ -24,7 +24,7 @@ Hello! I'm Chun, 22 y/o hacker and entrepreneur who enjoys building fun stuff on
 - I currently learning Rust, Three.js, and other cool stuff!
 - I'm mastering things by building little projects e.g. [Uniswap Calculator](https://uniswapv3.thechun.dev/), [ETHTalk](https://ethtalk.app/), [The Score Programming Language](https://github.com/chunza2542/score-language), and [more](https://github.com/chunza2542?tab=repositories).
 - I actively tweet about what I've learned and what I've built. Follow me on [Twitter](https://twitter.com/chunza2542)
-- Current hobbies: reading a book ([visit my bookshelf](https://www.goodreads.com/review/list/148571752-chun?utf8=%E2%9C%93&shelf=read&title=chun&sort=avg_rating&order=d)), jogging, meditation, [bloging](https://medium.com/chunza2542), and playing guitar (meet my idols: [Tommy Emmanuel](https://www.youtube.com/watch?v=1Khi2xaBTI4), [Joe Robinson](https://www.youtube.com/watch?v=zszIWqY3F2Q), [Sungha Jung](https://www.youtube.com/watch?v=mkRsz7didXI))
+- Current hobbies: reading a book ([visit my bookshelf](https://www.goodreads.com/review/list/148571752-chun?utf8=%E2%9C%93&shelf=read&title=chun&sort=avg_rating&order=d)), jogging, meditation, [bloging](https://medium.com/chunza2542), and playing guitar (meet my heros: [Tommy Emmanuel](https://www.youtube.com/watch?v=1Khi2xaBTI4), [Joe Robinson](https://www.youtube.com/watch?v=zszIWqY3F2Q), [Sungha Jung](https://www.youtube.com/watch?v=mkRsz7didXI))
 - Pronouns: he/him
 - Fun Fact: I first got interested in computers because I want to customize my Window 2000 to look cool.
 
