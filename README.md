@@ -35,7 +35,7 @@ Hello! I'm Chun, 22 y/o hacker and entrepreneur who enjoys building fun stuff on
 - **Product development.** 
 - **Entrepreneurship.**
 - **Education.** 
-- **Web3.**
+- **Blockchain.**
 
 <br>
 <img src="./assets/topic-myprojects.png" height="40">
