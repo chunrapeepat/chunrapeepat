@@ -19,7 +19,7 @@
 </a>
 
 Hello! I'm Chun, an indie hacker and Web3 contributor who enjoys building fun stuff on the internet.
-- I'm currently taking a gap year from my full-time job to start my indie hacker journey and dive into the topics I'm interested in.
+- I'm currently taking a gap year from my full-time job to start my indie hacker journey and dive into the topics I'm interested in. (see: Area of Interests)
 - I'm also contributing to various DAOs ([Uniswap](https://unigrants.org/), [Gitcoin](http://gitcoin.co/), [Develeper DAO](https://www.developerdao.com/))
 - I previously worked at [ThoughtWorks](https://www.thoughtworks.com/) and [Cleverse](https://cleverse.com/) as a software engineer.
 - I'm mastering things by building little projects e.g. [Uniswap Calculator](https://uniswapv3.thechun.dev/), [ETHTalk](https://ethtalk.app/), [The Score Programming Language](https://github.com/chunza2542/score-language), and [more](https://github.com/chunza2542?tab=repositories).
