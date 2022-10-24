@@ -18,11 +18,10 @@
   <img align="right" src="./assets/clippy.gif" width=200 />
 </a>
 
-Hello! I'm Chun, an indie hacker and Web3 contributor who enjoys building fun stuff on the internet.
+Hello! I'm Chun, an indie maker who enjoys building fun stuff on the internet.
 - I'm currently taking a gap year from my full-time job to start my indie hacker journey and dive into the topics I'm interested in. (see: Area of Interests)
 - I previously worked at [ThoughtWorks](https://www.thoughtworks.com/) and [Cleverse](https://cleverse.com/) as a software engineer.
-- I'm also contributing to various DAOs ([Uniswap](https://unigrants.org/), [Gitcoin](http://gitcoin.co/), [Develeper DAO](https://www.developerdao.com/))
-- I'm mastering things by building little projects e.g. [Uniswap Calculator](https://uniswap.fish), [ETHTalk](https://ethtalk.app/), [The Score Programming Language](https://github.com/chunza2542/score-language), and [more](https://github.com/chunza2542?tab=repositories).
+- I'm mastering things by building little projects e.g. [Uniswap.fish](https://uniswap.fish), [The Score Programming Language](https://github.com/chunza2542/score-language), and [more](https://github.com/chunza2542?tab=repositories).
 - I actively tweet about what I've learned and what I've built. Follow me on [Twitter](https://twitter.com/chunza2542)
 - Current hobbies: reading a book ([visit my bookshelf](https://www.goodreads.com/review/list/148571752-chun?utf8=%E2%9C%93&shelf=read&title=chun&sort=avg_rating&order=d)), jogging, meditation, [bloging](https://medium.com/chunza2542), and playing guitar (meet my heros: [Tommy Emmanuel](https://www.youtube.com/watch?v=1Khi2xaBTI4), [Joe Robinson](https://www.youtube.com/watch?v=zszIWqY3F2Q), [Sungha Jung](https://www.youtube.com/watch?v=mkRsz7didXI))
 - Pronouns: he/him
@@ -32,8 +31,9 @@ Hello! I'm Chun, an indie hacker and Web3 contributor who enjoys building fun st
 <img src="./assets/topic-areasofintesrest.png" height="32">
 
 - **Entrepreneurship:** indie hacker/open-sourcerer, bootstraping SaaS, growing audience, marketing.
-- **Web3:** public goods & OSS funding, Gitcoin grant, governance, DAO, DeSoc, soulbound, identity & reputaion.
-- **Others:** education inequality, developer community, computer science.
+- **Coding:** software design, web development, web performance.
+- **Web3:** public goods and open-sources funding, Gitcoin, Uniswap v3.
+- **Others:** education, community building.
 
 <br>
 <img src="./assets/topic-myprojects.png" height="40">
